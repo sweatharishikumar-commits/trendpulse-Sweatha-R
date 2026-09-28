@@ -1,0 +1,81 @@
+post_id,title,score,author,num_comments,category,collected_at
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",114,davidcollantes,37,technology,2026-09-28 18:43:57.906521
+49875148,AI companies in race to demonstrate their model most threatening to humanity,222,ljewalsh,128,technology,2026-09-28 18:43:57.906556
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),127,teleforce,43,technology,2026-09-28 18:43:57.906646
+49872883,Nissan's third generation e-POWER powertrain,98,mroche,146,technology,2026-09-28 18:43:57.906666
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),115,evakhoury,55,technology,2026-09-28 18:43:57.906674
+49868404,Don't couple your Go code to GitHub,272,birdculture,133,technology,2026-09-28 18:43:57.906779
+49849409,Writing Efficient C++ Code (2013),166,ibobev,132,technology,2026-09-28 18:43:57.906925
+49876158,Rails World 2026 Closing Keynote – Aaron Patterson [video],7,sinnsro,0,technology,2026-09-28 18:43:57.906935
+49876883,"Una watch review: A modular, repairable GPS watch is a good first step",3,poisonborz,0,technology,2026-09-28 18:43:57.906942
+49857281,There is more to code review than (automatable) detection,148,utiiiD,96,technology,2026-09-28 18:43:57.906962
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,145,theanonymousone,73,technology,2026-09-28 18:43:57.906981
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",61,FKJ,14,technology,2026-09-28 18:43:57.907022
+49875347,"Big AI's content problem: Take the work, keep the money",12,samizdis,0,technology,2026-09-28 18:43:57.907101
+49867775,Show HN: TinyAIArena watch AI agents battle it out,112,hp6,44,technology,2026-09-28 18:43:57.907109
+49867486,The Normalization of Inexplicable Failures,268,pxx,115,technology,2026-09-28 18:43:57.907131
+49872200,Cambrian Explosion of AI,13,debarshri,14,technology,2026-09-28 18:43:57.907161
+49867067,On caring for user data: NeoVim caused Vim undo files to be deleted,378,jandeboevrie,330,technology,2026-09-28 18:43:57.907217
+49870377,Luarocks.org remote code execution exploit,28,cupcakerob,4,technology,2026-09-28 18:43:57.907237
+49866534,Ten lines of code that changed my world,135,dimonomid,43,technology,2026-09-28 18:43:57.907285
+49857132,Golang: Crypto/fips140: do not bloat crypto code unnecessarily,17,zx2c4,3,technology,2026-09-28 18:43:57.907312
+49875895,Congressman Cohen Introduces Articles of Impeachment Against President Trump,25,hkhn,1,technology,2026-09-28 18:43:57.907358
+49863864,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,619,papergirl,606,technology,2026-09-28 18:43:57.907365
+49851883,Generate fonts where every LLM token is the same width,90,z-mach9,23,technology,2026-09-28 18:43:57.907406
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,745,specked-citrus,465,technology,2026-09-28 18:43:57.907413
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,29,daniel_iversen,2,technology,2026-09-28 18:43:57.907418
+49875401,Three Days in August: What a DDoS Attack Exposed in Our Network,12,nine_ch,7,worldnews,2026-09-28 18:43:57.907533
+49872636,"Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern",5,JEOFFEZZ,1,worldnews,2026-09-28 18:43:57.908536
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,1009,fjfaase,581,worldnews,2026-09-28 18:43:57.908580
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,323,nonfamous,330,worldnews,2026-09-28 18:43:57.908706
+49871877,Judge orders release of records on Nazi war criminals who settled in Canada,26,Teever,7,worldnews,2026-09-28 18:43:57.908721
+49868721,macOS 27: ifconfig command no longer prints hardware MAC address,3,luckman212,4,worldnews,2026-09-28 18:43:57.908900
+49871846,The great crime decline is happening all across the country,38,andsoitis,49,worldnews,2026-09-28 18:43:57.908980
+49811065,Transit rewards,258,raybb,345,worldnews,2026-09-28 18:43:57.909028
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,181,giuliomagnifico,181,worldnews,2026-09-28 18:43:57.909064
+49835913,August 27 TCRF DDoS Attack Postmortem,34,panic,14,worldnews,2026-09-28 18:43:57.909100
+49869691,Meta's Muse agent is attacking one of the economy's most profitable weak spots,8,pseudolus,1,worldnews,2026-09-28 18:43:57.909126
+49808109,The UV index is not the warm sensation of sunlight on bare skin,99,evakhoury,79,worldnews,2026-09-28 18:43:57.909386
+49869242,How the Smithsonian became the latest front in Trump's culture war,9,rbanffy,0,worldnews,2026-09-28 18:43:57.909622
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,63,msephton,43,sports,2026-09-28 18:43:57.910321
+49844642,What happens when you analyze your favorite college football team like the CIA?,64,adam,35,sports,2026-09-28 18:43:57.910351
+49836590,The Board Game of the Alpha Nerds (2014),122,neonate,65,sports,2026-09-28 18:43:57.910485
+49849406,Time Measurement in Game Programming,13,ibobev,0,sports,2026-09-28 18:43:57.910913
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,143,ArielSimon,52,sports,2026-09-28 18:43:57.911063
+49855947,Gameboy Macro (2016),3,tosh,0,sports,2026-09-28 18:43:57.911119
+49847157,Show HN: I made a WWI dogfight game that runs in the browser,7,fullstackwife,7,sports,2026-09-28 18:43:57.911371
+49875411,SpaceX's Starship launching to orbit for first time ever today,154,geox,50,science,2026-09-28 18:43:57.911510
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",261,danso,96,science,2026-09-28 18:43:57.911587
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,87,Teever,25,science,2026-09-28 18:43:57.911907
+49839438,"Biology might not be quantum, but its math is quantumlike",121,pseudolus,60,science,2026-09-28 18:43:57.911913
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,232,xnx,540,science,2026-09-28 18:43:57.912432
+49872143,The Truth Physics Can No Longer Ignore,10,jdkee,11,science,2026-09-28 18:43:57.912487
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,47,pseudolus,34,science,2026-09-28 18:43:57.912696
+49868561,Flock seeks to have security researchers' map of Flock cameras taken down,8,sbulaev,2,science,2026-09-28 18:43:57.912849
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,29,shriy-singh,28,science,2026-09-28 18:43:57.912867
+49824969,FLAWED's Flaws and What This Means for Industry Research,24,tob_scott_a,4,science,2026-09-28 18:43:57.912984
+49876760,Show HN: Hntui – A TUI for Hacker News,14,ahmd-sh,3,entertainment,2026-09-28 18:43:57.913286
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",4,seamus_c,1,entertainment,2026-09-28 18:43:57.913345
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,274,safaelmali,114,entertainment,2026-09-28 18:43:57.913357
+49845172,Show HN: Jev Plays Pokémon Red,274,pancomplex,121,entertainment,2026-09-28 18:43:57.913491
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,397,jpwalsh234,115,entertainment,2026-09-28 18:43:57.913571
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",16,jvanveen,3,entertainment,2026-09-28 18:43:57.913578
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",6,andreespirela,1,entertainment,2026-09-28 18:43:57.913723
+49872766,"Musk, the Movie",158,yablak,104,entertainment,2026-09-28 18:43:57.913730
+49869904,Show HN: A bookshelf of rare company documents and out-of-print tech books,10,miletus,0,entertainment,2026-09-28 18:43:57.913748
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,421,pseudolus,106,entertainment,2026-09-28 18:43:57.913772
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,72,SouthWestAtlas,14,entertainment,2026-09-28 18:43:57.913779
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),40,kdautaj,12,entertainment,2026-09-28 18:43:57.913812
+49870654,Show HN: Jevdit – a social network moderated by Jev,10,TN1ck,1,entertainment,2026-09-28 18:43:57.913826
+49868710,"Show HN: Gat – Version large files with Git, without an LFS server",7,davnn,0,entertainment,2026-09-28 18:43:57.913964
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,86,andrearitossa,28,entertainment,2026-09-28 18:43:57.913972
+49868631,"Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)",4,emir,0,entertainment,2026-09-28 18:43:57.913986
+49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",6,bonguynvan,0,entertainment,2026-09-28 18:43:57.914042
+49875006,Maybe don't let Muse run your Facebook Marketplace account,50,embedding-shape,56,entertainment,2026-09-28 18:43:57.914069
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",21,jsLavaGoat,2,entertainment,2026-09-28 18:43:57.914200
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,51,miguelrios,12,entertainment,2026-09-28 18:43:57.914245
+49866597,"Show HN: Building a Markdown editor for Mac, iOS and web",68,thiagoperes,50,entertainment,2026-09-28 18:43:57.914267
+49823738,Show HN: Make cursed fonts like Times New Bastard,858,MitPitt,123,entertainment,2026-09-28 18:43:57.914350
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,193,mixedbit,63,entertainment,2026-09-28 18:43:57.914375
+49856691,Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts,10,taventix,1,entertainment,2026-09-28 18:43:57.914403
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",150,florianstandhar,39,entertainment,2026-09-28 18:43:57.914455
